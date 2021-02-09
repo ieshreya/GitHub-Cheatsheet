@@ -1,4 +1,4 @@
-# GitHub-Cheatsheet
+# GitHub Cheatsheet
 
 ## Glossary
 - **git**: an open source, distributed `version-control system`

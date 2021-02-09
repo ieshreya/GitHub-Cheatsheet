@@ -143,5 +143,5 @@ Discards all history and changes back to the specified commit
 > CAUTION! Changing history can have nasty side effects. If you need to change commits that exist on GitHub (the remote), proceed with caution. If you need help, reach out at [github.community](https://github.community/) or contact support.
 
 
-
+>> Resources taken from [training.github.com](https://training.github.com/downloads/github-git-cheat-sheet/)
 
